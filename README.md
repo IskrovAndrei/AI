@@ -2,20 +2,20 @@
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+
   
 </div>
 
 
 
 
-_Hello, my name is Andrei.I have over 2 years of experience working as a Tech Lead in the content team in the Igaming industry. Responsible for successful product releases and integrations new providers. Engaged in testing the web admin panel, improving it, and managing an Agile team. Optimized documentation and database processes, and successfully integrated over 30 providers with extensive game portfolios. Identified a total of more than 20 critical errors, contributing to risk reduction and financial losses mitigation. Increased the performance of the web admin panel by 50% and enhanced team efficiency by 20%.
+Hello, my name is Andrei.I have over 2 years of experience working as a Tech Lead in the content team in the Igaming industry. Responsible for successful product releases and integrations new providers. Engaged in testing the web admin panel, improving it, and managing an Agile team. Optimized documentation and database processes, and successfully integrated over 30 providers with extensive game portfolios. Identified a total of more than 20 critical errors, contributing to risk reduction and financial losses mitigation. Increased the performance of the web admin panel by 50% and enhanced team efficiency by 20%.
 
-In addition to my professional experience, I have also participated in two outsourced projects, contributing to diverse project environments and expanding my skill set. My goal is to apply my knowledge and experience in QA to ensure product quality, enhance team productivity, and establish an efficient testing system._
+In addition to my professional experience, I have also participated in two outsourced projects, contributing to diverse project environments and expanding my skill set. My goal is to apply my knowledge and experience in QA to ensure product quality, enhance team productivity, and establish an efficient testing system.
 
 ## My CV 
 
-[сслыка на резюме]([https://drive.google.com/file/d/1Yf6yCBYGCKEACHUn4_hhOQM_RJvoi5R4/view?usp=drive_link)])
+[сслыка на резюме](https://drive.google.com/file/d/1Yf6yCBYGCKEACHUn4_hhOQM_RJvoi5R4/view?usp=drive_link)
 
 ## Портфолио 
 - Тестовая документация
