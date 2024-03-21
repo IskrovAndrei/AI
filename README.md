@@ -6,9 +6,8 @@
   
 </div>
 
-Блок о себе. Здесь можно написать все то, что описывает вас как специалиста 
 
-_Пример_ 
+
 
 _Hello, my name is Andrei.I have over 2 years of experience working as a Tech Lead in the content team in the Igaming industry. Responsible for successful product releases and integrations new providers. Engaged in testing the web admin panel, improving it, and managing an Agile team. Optimized documentation and database processes, and successfully integrated over 30 providers with extensive game portfolios. Identified a total of more than 20 critical errors, contributing to risk reduction and financial losses mitigation. Increased the performance of the web admin panel by 50% and enhanced team efficiency by 20%.
 
@@ -65,8 +64,6 @@ In addition to my professional experience, I have also participated in two outso
 
 ## Мои контакты
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jennaqa)
-[![Website: jennaqa](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
-[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
+[![Linkedin: ](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-iskrov)
+[![Telegram ](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/psy_spy777)
 
