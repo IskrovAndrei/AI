@@ -59,7 +59,7 @@ In addition to my professional experience, I have also participated in two outso
 <a href="https://swagger.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
-
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </p>
 
 ## Мои контакты
