@@ -21,8 +21,8 @@ In addition to my professional experience, I have also participated in two outso
 - Тестовая документация
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Test tasks №1](https://docs.google.com/document/d/1gOVZhQ6VOzTSbgx270HhFJAbcWD_MIIBRYPxAa-5f_Y/edit)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
