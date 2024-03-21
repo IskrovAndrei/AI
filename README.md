@@ -15,7 +15,7 @@ In addition to my professional experience, I have also participated in two outso
 
 ## My CV 
 
-[сслыка на резюме](https://drive.google.com/file/d/1Yf6yCBYGCKEACHUn4_hhOQM_RJvoi5R4/view?usp=drive_link)
+[ссылка на резюме](https://drive.google.com/file/d/1Yf6yCBYGCKEACHUn4_hhOQM_RJvoi5R4/view?usp=drive_link)
 
 ## Портфолио 
 - Тестовая документация
