@@ -23,6 +23,8 @@ In addition to my professional experience, I have also participated in two outso
   -  [Test Cases](https://ссылочку_сюда)
   -  [Bug-reports](https://docs.google.com/spreadsheets/d/1LCwxJgXefjZ5ns6XDzrcKaXw48mbhSO3XPkLW2FW5mE/edit?usp=sharing)
   -  [Test tasks №1](https://docs.google.com/document/d/1gOVZhQ6VOzTSbgx270HhFJAbcWD_MIIBRYPxAa-5f_Y/edit)
+  -  [Сustomer Feedback]()
+  -  [Bug reports "Wow place" project](https://docs.google.com/spreadsheets/d/1LCwxJgXefjZ5ns6XDzrcKaXw48mbhSO3XPkLW2FW5mE/edit#gid=845627809)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
@@ -35,8 +37,7 @@ In addition to my professional experience, I have also participated in two outso
 
 <p align="left">
 
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Amplitude.png" alt="Sentry" width="90" height="50" />
-</a>
+
 <a href="https://www.jetbrains.com/youtrack/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
 </a>
