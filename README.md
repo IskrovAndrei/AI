@@ -35,7 +35,8 @@ In addition to my professional experience, I have also participated in two outso
 
 <p align="left">
 
-
+<img src="https://github.com/IskrovAndrei/AI/blob/main/ICONS/TestRail.png alt="Sentry" width="90" height="50" />
+</a>
 
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Amplitude.png" alt="Sentry" width="90" height="50" />
 </a>
