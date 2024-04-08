@@ -19,9 +19,9 @@ In addition to my professional experience, I have also participated in two outso
 
 ## Portfolio 
 - Test documentation
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Check lists](https://ссылочку_сюда)
+  -  [Test Cases](https://ссылочку_сюда)
+  -  [Bug-reports](https://docs.google.com/spreadsheets/d/1LCwxJgXefjZ5ns6XDzrcKaXw48mbhSO3XPkLW2FW5mE/edit?usp=sharing)
   -  [Test tasks №1](https://docs.google.com/document/d/1gOVZhQ6VOzTSbgx270HhFJAbcWD_MIIBRYPxAa-5f_Y/edit)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
@@ -35,13 +35,11 @@ In addition to my professional experience, I have also participated in two outso
 
 <p align="left">
 
-<a href="https://www.charlesproxy.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
-</a>
+
 
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Amplitude.png" alt="Sentry" width="90" height="50" />
 </a>
-<a href="https://www.jetbrains.com/teamcity/">
+<a href="https://www.jetbrains.com/youtrack/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
 </a>
 
