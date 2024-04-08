@@ -17,8 +17,8 @@ In addition to my professional experience, I have also participated in two outso
 
 [ссылка на резюме](https://drive.google.com/file/d/1Yf6yCBYGCKEACHUn4_hhOQM_RJvoi5R4/view?usp=drive_link)
 
-## Портфолио 
-- Тестовая документация
+## Portfolio 
+- Test documentation
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
