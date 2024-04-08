@@ -40,7 +40,7 @@ In addition to my professional experience, I have also participated in two outso
 <a href="https://www.jetbrains.com/youtrack/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
 </a>
-<img src="https://github.com/IskrovAndrei/AI/blob/main/ICONS/TestRail.png alt="Sentry" width="90" height="50" />
+<img src="https://github.com/IskrovAndrei/AI/blob/main/ICONS/TestRail.png" alt="Sentry" width="90" height="50" />
 </a>
 
 
